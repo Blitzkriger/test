@@ -42,15 +42,7 @@ function update(e) {
 
 }
 
-// var regexEmail = /\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/;
-// var email = document.getElementById("txtEmail");
 
-// if (regexEmail.test(email.value)) {
-//     alert("It Okay")
-// } else {
-//     alert("Not Okay")
-
-// }
 
 var button = document.querySelector('#load');
 var save = document.querySelector('#update');
